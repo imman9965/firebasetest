@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "11195134657",
+    "project_id": "hest-ee0e4",
+    "storage_bucket": "hest-ee0e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11195134657:android:f39f6a14227013cfb89a40",
+        "android_client_info": {
+          "package_name": "com.example.tester"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjpB2-3aWwEzVCeylTbBt6clsfMZrb8pU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
